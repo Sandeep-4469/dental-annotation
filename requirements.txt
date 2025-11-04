@@ -1,0 +1,22 @@
+# Core Libraries
+numpy>=1.23.0
+pillow>=10.0.0
+opencv-python>=4.8.0.76
+matplotlib>=3.7.0
+
+# Web UI and Interaction
+gradio>=4.20.0
+gradio_client>=0.8.0
+
+# Deep Learning and YOLO
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.1.0
+
+# Utilities
+tqdm>=4.65.0
+pandas>=2.1.0
+requests>=2.31.0
+
+# Optional (helps in JSON handling, safety)
+jsonschema>=4.19.0
