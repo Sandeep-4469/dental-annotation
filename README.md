@@ -19,7 +19,6 @@ It integrates **YOLO-based automatic tooth detection** with **manual calibration
 
 ## 🖼️ Example UI
 
-> Add your screenshot under `assets/ui_screenshot.png`.
 
 ```bash
 assets/
